@@ -1,12 +1,17 @@
-## Hi there 👋
+<h1 align="center">Welcome to Twizzers!</h1><br>
 
-<!--
+<p align="center">
+  <a href="https://www.twizzers.com">
+   <img src="https://avatars.githubusercontent.com/u/183935818?s=400&u=7ca43b95a53d5344fd2e75da9a8c59b1dc492fc9&v=4" alt="Twizzers logo" style="border-radius: 50%;" height="140">
+  </a>
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  Twizzers is dedicated to providing innovative solutions that empower our clients to achieve their goals.<br>
+  We believe in creativity, collaboration, and delivering excellence in everything we do.
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+<p align="center">
+  <strong>Coming Soon in 2035!</strong>
+</p>
