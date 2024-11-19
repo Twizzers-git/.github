@@ -2,7 +2,7 @@
 
 <p align="center">
 
-   <img src="https://github.com/organizations/Twizzers-git/settings/profile" alt="Twizzers logo" style="border-radius: 50%;" height="140">
+   <img src="https://avatars.githubusercontent.com/u/183935818?s=200&v=4" alt="Twizzers logo" style="border-radius: 50%;" height="140">
   
 </p>
 
